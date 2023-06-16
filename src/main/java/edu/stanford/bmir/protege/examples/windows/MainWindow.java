@@ -37,7 +37,6 @@ public class MainWindow extends ProtegeOWLAction {
 
 
 
-
     @Override
     public void actionPerformed(ActionEvent e) {
 
