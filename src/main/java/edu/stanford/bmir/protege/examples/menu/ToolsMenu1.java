@@ -21,4 +21,6 @@ public class ToolsMenu1 extends ProtegeOWLAction {
 		message.append(".");
 		JOptionPane.showMessageDialog(getOWLWorkspace(), message.toString());	
 	}
+
+
 }
